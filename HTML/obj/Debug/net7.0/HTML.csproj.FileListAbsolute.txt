@@ -1,0 +1,14 @@
+G:\PTPMQL-nhom02\HTML\bin\Debug\net7.0\HTML.exe
+G:\PTPMQL-nhom02\HTML\bin\Debug\net7.0\HTML.deps.json
+G:\PTPMQL-nhom02\HTML\bin\Debug\net7.0\HTML.runtimeconfig.json
+G:\PTPMQL-nhom02\HTML\bin\Debug\net7.0\HTML.dll
+G:\PTPMQL-nhom02\HTML\bin\Debug\net7.0\HTML.pdb
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.AssemblyInfoInputs.cache
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.AssemblyInfo.cs
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.csproj.CoreCompileInputs.cache
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.dll
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\refint\HTML.dll
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.pdb
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\HTML.genruntimeconfig.cache
+G:\PTPMQL-nhom02\HTML\obj\Debug\net7.0\ref\HTML.dll
