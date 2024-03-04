@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using FirstWebMVC.Models;
+using NewApp.Models;
 
-namespace FirstWebMVC.Controllers;
+namespace NewApp.Controllers;
 
 public class HomeController : Controller
 {

@@ -1,4 +1,4 @@
-namespace FirstWebMVC.Models;
+namespace NewApp.Models;
 
 public class ErrorViewModel
 {
