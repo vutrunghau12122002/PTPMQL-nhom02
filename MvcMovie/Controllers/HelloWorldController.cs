@@ -1,20 +1,16 @@
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using MvcMovie.Models;
-namespace MvcMovie.Controllers;
 
-    public class HelloWorldController : Controller
-    { 
-        // GET: /HelloWorld/
-        public IActionResult Index ()
+namespace MvcMovie.Controllers
+{
+    public class HelloworldController : Controller
+    {
+        public string Index()
         {
-            return View();
+            return "this is my default action";
         }
-       [HttpPost]
-        public IActionResult Index (Person ps)
+        public string Welcome()
         {
-            string strResult = "Xin chao"+ ps.PersonId + ps.Fullname ;
-            ViewBag.info = strResult ;
-            return View();
+            return "This is the welcome action metod";
         }
     }
+}
