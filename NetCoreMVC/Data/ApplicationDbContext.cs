@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using NetCoreMVC.Models;
+using NetCoreMvc.Models;
 
 namespace NetCoreMVC.Data
 {
@@ -15,5 +16,6 @@ namespace NetCoreMVC.Data
         }
 
         public DbSet<NetCoreMVC.Models.Person> Person { get; set; } = default!;
+        public DbSet<NetCoreMvc.Models.Employee> Employee { get; set; } = default!;
     }
 }
