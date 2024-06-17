@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VTH-baithi2324.props" />
+</Project>
